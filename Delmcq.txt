@@ -1,0 +1,37 @@
+                               \\192.168.1.4
+a)what is the difference between BVT and Defects Life Cycle
+b)What is the test process and test design
+c)what is the differencc between HTTP/SOAP/REST
+d)what Kind of tool is selenium in terms of Web based application
+e)what is the Load Runner suite and selenium suite
+f)Can selenium scripts be embedded in Load Runner - justify
+
+Requirement to automate a web based application for the currency validation
+
+1.The User has to validate the currency conversion keeping the base currency in INR as country Name India and display the currency for the various transactions in the opencart and validate the base curreny with populated in the open cart application
+
+2.The input has to be taken for the user for the base currency and checked against the tranaction curreny with valiation on the web based objects
+Count the number of links in the drop down box of the currency
+
+3.capture the validation message for the invalid curreny using the java script alert box or text message
+
+                                       ANSWERS  
+
+
+a)BVT is a series of test which is done before every process to ensure that
+it does not have any errors while proceeding further.It validates the stability
+and acceptability for further testing.
+Defect life cycle is the series though which a defect undergoes covering entire states
+
+
+b)Test process is the whole process from planning to evaluate
+Test design creating and writing test suites
+
+C)Rest is architectural style where SOAP is protocal type
+SOAP based on http and XMl
+REST based on json URL http and XMl
+d)selenium is automating test tool
+e)Load runner suite is used to test applicacation before during and after deployment
+Selenium suite is a automated testing tool for web applications across differnt 
+browsers and application
+f)yes can be embedded
